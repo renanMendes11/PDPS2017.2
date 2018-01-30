@@ -1,0 +1,33 @@
+Casa{
+ rua;
+ numero;
+ Array Comodo;	
+}
+
+Comodo{
+ nome;
+ Piso;
+ Parede;
+ Porta;
+ Tinta;
+ Metal;
+ Louca;
+}
+
+abstract CasaFactory;
+abstract CasaBasicaFactory;
+  ""    CasaConfortoFactory;
+  ""	CasaLuxoFactory;
+  
+Piso{
+}
+Parede{
+}
+Porta{
+}
+Tinta{
+}
+Metal{
+}
+Louca{
+}
