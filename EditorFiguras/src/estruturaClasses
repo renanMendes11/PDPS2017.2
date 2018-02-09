@@ -1,0 +1,26 @@
+interface Figura{
+	perimetro()
+	area()
+	desenha()
+}
+
+class Ponto{
+}
+
+class Reta{
+}
+
+class Circulo, Triangulo, TrianguloEquilatero, TrianguloIsosceles, TriangulosEscaleno{
+	gets e sets
+	toString
+	perimetro
+	aerea
+	desenha
+}
+class FiguraComposta{
+
+}
+
+class Manipulação{
+	main()
+}
